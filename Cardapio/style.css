@@ -8,7 +8,7 @@
 }
 
 .container{
-    min-height: 100vh;
+    min-height: 130vh;
     background-image: url(./images/seuRestaurante2.jpg);
     background-size:cover;
     background-repeat: no-repeat;
